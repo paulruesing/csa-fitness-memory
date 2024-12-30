@@ -1,0 +1,14 @@
+name: csa_env
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - seaborn
+  - tqdm
